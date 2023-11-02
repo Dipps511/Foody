@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-     <h1>Food Ordering - Foody</h1>
+     <h1>Food Ordering - Foody App</h1>
     </div>
   );
 }
