@@ -1,5 +1,7 @@
 
 function App() {
+
+
   return (
     <div>
      <h1>Food Ordering - Foody App</h1>
