@@ -15,6 +15,7 @@ import EditProduct from "./pages/dashboard/EditProduct";
 
 function App() {
   return (
+<<<<<<< HEAD
     <div className="container">
       <Routes>
         <Route path="/" element={<Layout />}>
@@ -35,6 +36,10 @@ function App() {
           <Route path="logout" element={<h2>logout</h2>} />
         </Route>
       </Routes>
+=======
+    <div>
+     <h1>Food Ordering - Foody App check deploymentnnn</h1>
+>>>>>>> 69ecd4bafff2ac8c95144aa6eccf7de9c995aee1
     </div>
   );
 }
