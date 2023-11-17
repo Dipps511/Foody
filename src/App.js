@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-     <h1>Food Ordering - Foody App check deploymentn</h1>
+     <h1>Food Ordering - Foody App check deploymentnnn</h1>
     </div>
   );
 }
