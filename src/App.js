@@ -4,7 +4,7 @@ const app = express()
 app.get('/', (req, res) =>{
     res.json(
         {
-            mesg:'Food Ordering - Backend...'
+            mesg:'Food Ordering - B'
         })
 })
 
